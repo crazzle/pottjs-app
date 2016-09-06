@@ -1,0 +1,13 @@
+{
+  "name": "hello_world_webapp",
+  "version": "1.0.0",
+  "description": "Dockerized Node.js Web-App",
+  "author": "Mark Keinhoerster",
+  "main": "webapp.js",
+  "scripts": {
+    "start": "node webapp.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
